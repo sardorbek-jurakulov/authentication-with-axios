@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vue-update
 
 > Vue Auth & more
@@ -16,3 +17,7 @@ npm run build
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# authentication-with-axios
+make Authentication feature in page with axios
+>>>>>>> da627c7aa45e1edf79bbceb2eae585373bd0dad5
